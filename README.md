@@ -1,4 +1,4 @@
-#RegWatcher AI
+# RegWatcher AI
 
 **A multi-agent pipeline for ingesting, processing, and querying US Federal Register documents using hybrid Semantic Vector Search (RAG) and Relational SQL execution.**
 
