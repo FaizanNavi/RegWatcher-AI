@@ -380,7 +380,5 @@ All configuration is managed via environment variables in `.env` (see `app/utils
 
 ---
 
-## License
 
-This project is part of a portfolio demonstrating production-grade Agentic AI engineering.
-# RegWatcher-AI
+
